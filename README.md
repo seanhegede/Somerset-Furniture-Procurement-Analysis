@@ -1,4 +1,4 @@
-# Somerset Furniture Company — Supply Chain Analysis
+# Somerset Furniture Company: Supply Chain Analysis
 ### Case Problem 10.1 | Procurement & Supply Chain Management
  
 ---
